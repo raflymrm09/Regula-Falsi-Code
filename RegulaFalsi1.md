@@ -1,9 +1,9 @@
-# SPNL-Regula-Falsi
+# SPNL-Regula-Falsi1
 
-Tugas Metode Nmerik di GitHub oleh Anggay Luri Pramana
+Tugas Metode Numerik di GitHub Dosen Pak Anggay Luri Pramana
 
 
-# Regula-Falsi-Code
+# Regula-Falsi1-Code
 
     def f(x):
     return x**2 - 6*x + 5
