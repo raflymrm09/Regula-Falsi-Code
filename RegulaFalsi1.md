@@ -1,4 +1,10 @@
+# SPNL-Regula-Falsi
+
+Tugas Metode Nmerik di GitHub oleh Anggay Luri Pramana
+
+
 # Regula-Falsi-Code
+
 def f(x):
 return x**2 - 6*x + 5
 
@@ -24,7 +30,6 @@ tolerance = 0.001
 
 root = find_root_bisection(a, b, tolerance)
 if root is not None:
-print(f"Akar persamaan f(x) = x^2 - 6x + 5 = 0 dalam selang [{a}, {b}] adalah {root}")
-
+    print(f"Akar persamaan f(x) = x^2 - 6x + 5 = 0 dalam selang [{a}, {b}] adalah {root}")
 
 _hasil dari coding diatas adalah Akar Persamaan = 5.0_
